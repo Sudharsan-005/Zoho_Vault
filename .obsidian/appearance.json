@@ -1,0 +1,13 @@
+{
+  "cssTheme": "AnuPpuccin",
+  "accentColor": "#8d5dfd",
+  "showRibbon": true,
+  "showViewHeader": true,
+  "nativeMenus": false,
+  "theme": "obsidian",
+  "interfaceFontFamily": "JetBrainsMono Nerd Font",
+  "textFontFamily": "JetBrainsMono Nerd Font Propo",
+  "monospaceFontFamily": "JetBrainsMono Nerd Font Mono",
+  "baseFontSize": 22,
+  "baseFontSizeAction": true
+}
