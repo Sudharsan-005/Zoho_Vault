@@ -7,21 +7,17 @@ tags:
 
 # 📖 Zoho Placement Vault — Multi-Player Guide & Instructions
 
-Welcome to your **Zoho Placement Preparation Obsidian Vault**. This vault is designed for **multiple players** to solve questions independently, maintain separate tracking dashboards, compare progress on a central leaderboard, and cross-link solution notes.
+ This vault is designed for **multiple players** to solve questions independently, maintain separate tracking dashboards, compare progress on a central leaderboard, and cross-link solution notes.
 
 ---
 
 ## 📁 Vault Structure Overview
 
 ```text
-Zoho Vault/
-├── Dashboards/
-│   ├── Master_Dashboard.md            # Leaderboard & global overview of all players
-│   ├── Player_Sudharsan_Dashboard.md  # Sudharsan's personal dashboard
-│   └── (Player_<Name>_Dashboard.md)   # Individual dashboard for each player
-├── Round_2_Questions/                  # Shared Question bank (C / DSA)
+
+├── Round_2_Questions/                  # Shared Question bank 
 ├── Round_2_Solutions/                  # Solutions tagged by player (e.g. Solution_ArrayRotation_Sudharsan.md)
-├── Round_3_Questions/                  # Shared Question bank (App Dev)
+├── Round_3_Questions/                  # Shared Question bank LLD
 ├── Round_3_Solutions/                  # Solutions tagged by player (e.g. Solution_RailwaySystem_Sudharsan.md)
 ├── Templates/
 │   ├── Question_Template.md           # Template for new shared questions
