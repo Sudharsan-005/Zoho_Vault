@@ -1,30 +1,17 @@
----
-title: "{{title}}"
-round:
-  - Round 2
-  - Round 3
-category: Arrays
-difficulty: Medium
-status: Unsolved
-tags:
-  - zoho/question
-  - round-2
----
 
-# Question: {{title}}
+# Question:
 
 ## 📌 Problem Statement
-> Insert the complete question description here.
+
 
 ---
 
 ## 📥 Input & Output Format
 
-### Input Format:
-- Line 1: ...
-- Line 2: ...
+### Input:
 
-### Output Format:
+
+### Output:
 - Output description...
 
 ---
@@ -45,16 +32,6 @@ Sample Output
 **Explanation:**
 > Explanation of test case 1.
 
----
-
-## ⚙️ Constraints
-- Line limit / time limits / value bounds...
-
----
-
-## 💡 Hints & Key Concepts
-- [ ] Hint 1: 
-- [ ] Hint 2: 
 
 ---
 

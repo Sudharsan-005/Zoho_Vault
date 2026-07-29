@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Question_Template.md",
+                "file": "Templates/Solution_template.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Question_Template"
+              "title": "Solution_template"
             }
           }
         ]
@@ -208,15 +208,15 @@
   },
   "active": "b126d119b3de0c6b",
   "lastOpenFiles": [
-    "Templates/Player_Dashboard_Template.md",
-    "Instructions.md",
     "Templates/Question_Template.md",
     "Templates/Solution_template.md",
+    "Players/Master_Dashboard.md",
+    "Templates/Player_Dashboard_Template.md",
+    "Instructions.md",
     "Players/Sudharsan/Player_Sudharsan_Dashboard.md",
     "Players/Sudharsan",
     "Plan for Implenetation.md",
     "Player_Dashboard.md",
-    "Players/Master_Dashboard.md",
     "Players",
     "Round_3_Solutions",
     "Round_2_Solutions",
