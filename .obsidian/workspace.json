@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Solution_template.md",
+                "file": "Round_2_Questions/Pattern 1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Solution_template"
+              "title": "Pattern 1"
             }
           }
         ]
@@ -208,8 +208,9 @@
   },
   "active": "b126d119b3de0c6b",
   "lastOpenFiles": [
-    "Templates/Question_Template.md",
     "Templates/Solution_template.md",
+    "Round_2_Questions/Pattern 1.md",
+    "Templates/Question_Template.md",
     "Players/Master_Dashboard.md",
     "Templates/Player_Dashboard_Template.md",
     "Instructions.md",
