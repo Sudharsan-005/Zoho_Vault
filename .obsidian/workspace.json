@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Instructions.md",
+                "file": "Templates/Question_Template.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Instructions"
+              "title": "Question_Template"
             }
           }
         ]
@@ -208,8 +208,8 @@
   },
   "active": "b126d119b3de0c6b",
   "lastOpenFiles": [
-    "Instructions.md",
     "Templates/Player_Dashboard_Template.md",
+    "Instructions.md",
     "Templates/Question_Template.md",
     "Templates/Solution_template.md",
     "Players/Sudharsan/Player_Sudharsan_Dashboard.md",
